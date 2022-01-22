@@ -1,4 +1,5 @@
 NOMOR 1
+'''python
 import html
 char1 = html.unescape('&#x25FB;')
 char2 = html.unescape('&#x25FC;')
@@ -19,6 +20,7 @@ Traceback (most recent call last):
 NameError: name 'char' is not defined. Did you mean: 'char1'?
 ```
 NOMOR 2
+'''python
 import html
 char1 = html.unescape('&#x25FB;')
 char2 = html.unescape('&#x25FC;')
@@ -45,6 +47,7 @@ Traceback (most recent call last):
 ```
 
 NOMOR 3
+'''python
 import html
 char1 = html.unescape('&#x25FB;')
 char2 = html.unescape('&#x25FC;')
