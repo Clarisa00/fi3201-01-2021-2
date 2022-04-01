@@ -5,6 +5,7 @@ Apakah penjelasan kode dia atas sudah dibaca atau hadir pada kuliah?
 question 2
 Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang merambat ke kanan dengan panjang gelombang λ = 2 m dan periode T = 2 s. Perolehlah pula berkas gif hasilnya.
 #Answer2
+```python
 import numpy as np
 from matplotlib import pyplot as plt
 from matplotlib import animation
@@ -59,8 +60,11 @@ else:
 gif
 ![](basic_animation.gif)
 
+'''
+
 question 3
 #answer3
+```python
 def init():
     line.set_data([], [])
     return line,
@@ -101,12 +105,15 @@ if option == 0:
 # anim.save('basic_animation.mp4', fps=30, extra_args=['-vcodec', 'libx264'])
 else:
 	plt.show()
+
+'''
  
  gif
  ![](basic_animation1.gif)
  
  question 4
  #answer4
+ ```python
  def init():
     line.set_data([], [])
     return line,
@@ -147,7 +154,9 @@ if option == 0:
 # anim.save('basic_animation.mp4', fps=30, extra_args=['-vcodec', 'libx264'])
 else:
 	plt.show()
-  
+ 
+ '''
+ 
 gif
 ![](basic_animation2.gif)
 
