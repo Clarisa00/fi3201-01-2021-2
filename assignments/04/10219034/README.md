@@ -1,3 +1,4 @@
+![basic_animation1](https://user-images.githubusercontent.com/97929602/161365600-84948484-1367-476e-b8fa-d8fc3f7b6c49.gif)
 
 question 1
 Apakah penjelasan kode dia atas sudah dibaca atau hadir pada kuliah?
@@ -112,6 +113,7 @@ else:
  
  gif
  ![](basic_animation1.gif)
+ ![basic_animation1](https://user-images.githubusercontent.com/97929602/161365600-84948484-1367-476e-b8fa-d8fc3f7b6c49.gif)
  
  question 4
  #answer4
