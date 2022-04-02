@@ -56,11 +56,12 @@ if option == 0:
 # anim.save('basic_animation.mp4', fps=30, extra_args=['-vcodec', 'libx264'])
 else:
 	plt.show()
-  
+
+'''
 gif
 ![](basic_animation.gif)
 
-'''
+
 
 question 3
 #answer3
