@@ -9,6 +9,8 @@ Apakah penjelasan kode dia atas sudah dibaca atau hadir pada kuliah?
 
 question 2
 Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang merambat ke kanan dengan panjang gelombang λ = 2 m dan periode T = 2 s. Perolehlah pula berkas gif hasilnya.
+![basic_animation](https://user-images.githubusercontent.com/97929602/161366103-ab6380e5-ac69-4506-842d-6fd2c542dfc3.gif)
+
 #Answer2
 ```python
 import numpy as np
