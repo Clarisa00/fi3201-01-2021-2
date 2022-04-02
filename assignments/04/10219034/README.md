@@ -65,7 +65,8 @@ else:
 '''
 gif
 ![](basic_animation.gif)
-![basic_animation](https://user-images.githubusercontent.com/97929602/161365515-6b066277-6a2c-4671-bbac-f75730744ed7.gif)
+![basic_animation](https://user-images.githubusercontent.com/97929602/161365990-70672f37-ccde-4fab-b7ad-51939a5dfc23.gif)
+
 
 
 question 3
@@ -116,7 +117,8 @@ else:
  
  gif
  ![](basic_animation1.gif)
- ![basic_animation1](https://user-images.githubusercontent.com/97929602/161365600-84948484-1367-476e-b8fa-d8fc3f7b6c49.gif)
+ ![basic_animation1](https://user-images.githubusercontent.com/97929602/161366007-cb1c2bcd-b227-4168-8f9e-3048d88f649f.gif)
+
  
  question 4
  #answer4
@@ -166,4 +168,6 @@ else:
  
 gif
 ![](basic_animation2.gif)
+![basic_animation2](https://user-images.githubusercontent.com/97929602/161366012-f34d8299-59cc-44bc-a403-ceb692dc9b60.gif)
+
 
