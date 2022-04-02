@@ -1,7 +1,9 @@
 ![basic_animation1](https://user-images.githubusercontent.com/97929602/161365600-84948484-1367-476e-b8fa-d8fc3f7b6c49.gif)
+jawaban no 3
 ![basic_animation](https://user-images.githubusercontent.com/97929602/161365899-eecb31e2-114c-401d-992e-705422e0389e.gif)
+jawaban no 2
 ![basic_animation2](https://user-images.githubusercontent.com/97929602/161365908-a5038c0e-7564-4bee-8cc5-b68f673c67a1.gif)
-
+jawaban no 4
 
 question 1
 Apakah penjelasan kode dia atas sudah dibaca atau hadir pada kuliah?
@@ -9,7 +11,7 @@ Apakah penjelasan kode dia atas sudah dibaca atau hadir pada kuliah?
 
 question 2
 Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang merambat ke kanan dengan panjang gelombang λ = 2 m dan periode T = 2 s. Perolehlah pula berkas gif hasilnya.
-![basic_animation](https://user-images.githubusercontent.com/97929602/161366103-ab6380e5-ac69-4506-842d-6fd2c542dfc3.gif)
+
 
 #Answer2
 ```python
