@@ -244,6 +244,6 @@ else:
 	plt.show()
 ```
 ```
-dan hasil berkas gifnya adalah \
+dan hasil berkas gifnya adalah 
 ![basic_animation2](https://user-images.githubusercontent.com/97929602/161469497-61e1292b-231b-4d9d-af55-a38a096a7f47.gif)
 
