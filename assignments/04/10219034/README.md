@@ -69,7 +69,7 @@ gif
 question 3
 Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang merambat ke kiri dengan panjang gelombang λ = 2 m dan periode T = 2 s. Perolehlah pula berkas gif hasilnya.
 
-![basic_animation1](https://user-images.githubusercontent.com/97929602/161366174-0a606706-457f-4eda-b5ef-c290b7fb978c.gif)
+
 
 #answer3
 ```python
@@ -117,7 +117,7 @@ else:
 ```
  
  gif
- ![](basic_animation1.gif)
+
  ![basic_animation1](https://user-images.githubusercontent.com/97929602/161366007-cb1c2bcd-b227-4168-8f9e-3048d88f649f.gif)
 
  
