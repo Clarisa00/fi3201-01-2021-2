@@ -6,7 +6,7 @@ question 2
 Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang merambat ke kanan dengan panjang gelombang λ = 2 m dan periode T = 2 s. Perolehlah pula berkas gif hasilnya.
 
 
-#Answer2
+###Answer2
 ```python
 import numpy as np
 from matplotlib import pyplot as plt
@@ -71,7 +71,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 
 
 
-#answer3
+###answer3
 ```python
 def init():
     line.set_data([], [])
@@ -122,7 +122,7 @@ else:
 
  
  question 4
- #answer4
+ ###answer4
  ```python
  def init():
     line.set_data([], [])
