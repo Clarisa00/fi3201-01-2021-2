@@ -167,6 +167,8 @@ else:
  
  ```
  
+gif
+![basic_animation2](https://user-images.githubusercontent.com/97929602/161469738-8f86c116-4897-4eee-b84b-7e64a8b8ff98.gif)
 
 
 
