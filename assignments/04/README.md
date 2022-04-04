@@ -138,6 +138,7 @@ else:
 
 ```
 ```
+```
 dan hasil berkas gifnya adalah \
 ![basic_animation (1)](https://user-images.githubusercontent.com/97929602/161469200-a8cbd249-41ef-4f9d-9a55-1af5c37b4113.gif)
 
