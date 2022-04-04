@@ -1,12 +1,3 @@
-![basic_animation1](https://user-images.githubusercontent.com/97929602/161365600-84948484-1367-476e-b8fa-d8fc3f7b6c49.gif)
-jawaban no 3
-
-![basic_animation](https://user-images.githubusercontent.com/97929602/161365899-eecb31e2-114c-401d-992e-705422e0389e.gif)
-jawaban no 2
-
-![basic_animation2](https://user-images.githubusercontent.com/97929602/161365908-a5038c0e-7564-4bee-8cc5-b68f673c67a1.gif)
-jawaban no 4
-
 question 1
 Apakah penjelasan kode dia atas sudah dibaca atau hadir pada kuliah?
 #Answer1 sudah
@@ -70,13 +61,14 @@ else:
 
 ```
 gif
-![](basic_animation.gif)
+
 ![basic_animation](https://user-images.githubusercontent.com/97929602/161365990-70672f37-ccde-4fab-b7ad-51939a5dfc23.gif)
 
 
 
 question 3
 Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang merambat ke kiri dengan panjang gelombang λ = 2 m dan periode T = 2 s. Perolehlah pula berkas gif hasilnya.
+
 ![basic_animation1](https://user-images.githubusercontent.com/97929602/161366174-0a606706-457f-4eda-b5ef-c290b7fb978c.gif)
 
 #answer3
@@ -175,8 +167,6 @@ else:
  
  ```
  
-gif
-![](basic_animation2.gif)
-![basic_animation2](https://user-images.githubusercontent.com/97929602/161366012-f34d8299-59cc-44bc-a403-ceb692dc9b60.gif)
+
 
 
