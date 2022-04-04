@@ -192,6 +192,7 @@ else:
 	plt.show()
 ```
 ```
+```
 dan hasil berkas gifnya adalah \
 ![basic_animation1](https://user-images.githubusercontent.com/97929602/161469312-fac314bf-6a90-46b6-a016-313bc7fa12bf.gif)
 
@@ -243,6 +244,7 @@ if option == 0:
 # anim.save('basic_animation.mp4', fps=30, extra_args=['-vcodec', 'libx264'])
 else:
 	plt.show()
+```
 ```
 ```
 dan hasil berkas gifnya adalah 
