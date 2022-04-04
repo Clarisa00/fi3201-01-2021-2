@@ -68,7 +68,7 @@ if option == 0:
 else:
 	plt.show()
 
-'''
+```
 gif
 ![](basic_animation.gif)
 ![basic_animation](https://user-images.githubusercontent.com/97929602/161365990-70672f37-ccde-4fab-b7ad-51939a5dfc23.gif)
@@ -122,7 +122,7 @@ if option == 0:
 else:
 	plt.show()
 
-'''
+```
  
  gif
  ![](basic_animation1.gif)
@@ -173,7 +173,7 @@ if option == 0:
 else:
 	plt.show()
  
- '''
+ ```
  
 gif
 ![](basic_animation2.gif)
