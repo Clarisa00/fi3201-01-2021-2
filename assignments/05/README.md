@@ -5,8 +5,4 @@
 4. Unggah ke GitHub Anda dan berikan link pada berkas ini pada bagian jawaban.
 
 ## answer
-Clarisa Andrienny Natasya
-Program Studi Sarjana Fisika, Institut Teknologi Bandung
-Jalan Gensha 10, Bandung 40132, Indonesia
-clarisa@students.itb.ac.id https://github.com/Clarisa00
-Tautan ke berkas Notebook Python saya adalah [http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3().
+Tautan ke berkas Notebook Python saya adalah [10219034_work_of_friction.ipynb](https://github.com/Clarisa00/fi3201-01-2021-2/blob/main/assignments/05/10219034/10219034_work_of_friction.ipynb).
